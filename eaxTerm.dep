@@ -1,0 +1,30 @@
+# Microsoft Developer Studio Generated Dependency File, included by eaxTerm.mak
+
+.\ChildView.cpp : \
+	".\ChildView.h"\
+	".\eaxTerm.h"\
+	".\StdAfx.h"\
+	
+
+.\eaxTerm.cpp : \
+	".\ChildView.h"\
+	".\eaxTerm.h"\
+	".\MainFrm.h"\
+	".\StdAfx.h"\
+	
+
+.\eaxTerm.rc : \
+	".\res\eaxTerm.ico"\
+	".\res\eaxTerm.rc2"\
+	
+
+.\MainFrm.cpp : \
+	".\ChildView.h"\
+	".\eaxTerm.h"\
+	".\MainFrm.h"\
+	".\StdAfx.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	
